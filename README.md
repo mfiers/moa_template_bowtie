@@ -15,16 +15,16 @@ Run BOWTIE on an set of input files (query) vs a database index.
 input
 :    Fasta/fastq input files for bowtie
 
-     *type:* set<br>
-     *category:* input<br>
-     *optional:* no
+     - *type:* set<br>
+     - *category:* input<br>
+     - *optional:* no
 
 output
 :    Output files
 
-     *type:* map<br>
-     *category:* output<br>
-     *optional:* no
+     - *type:* map<br>
+     - *category:* output<br>
+     - *optional:* no
 
 
 
