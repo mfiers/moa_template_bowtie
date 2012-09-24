@@ -53,4 +53,5 @@ parameters:
     help: Format of the input files
     optional: true
     type: set
-title: Bowtie
+title:
+    default: 'Run bowtie job on {{ input }} with database: {{db}}'
